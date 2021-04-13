@@ -1,0 +1,16 @@
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.exe
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.deps.json
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.runtimeconfig.json
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.runtimeconfig.dev.json
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.dll
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\ref\SendEmail.dll
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\bin\Debug\net5.0\SendEmail.pdb
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.AssemblyInfoInputs.cache
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.AssemblyInfo.cs
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.dll
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\ref\SendEmail.dll
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.pdb
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.genruntimeconfig.cache
+C:\Users\baris.ugur\source\repos\WordToPdf\SendEmail\obj\Debug\net5.0\SendEmail.csprojAssemblyReference.cache

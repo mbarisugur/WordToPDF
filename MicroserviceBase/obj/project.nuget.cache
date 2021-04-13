@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fq4Lj2tkw+tpDOVbFfLiObPlrQfPuCo/am7nwho7qi1qzvaeiPFPed7LnfGe6cwoc3HeVEXYnhVjixiSHeZ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\MicroserviceBase\\MicroserviceBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baris.ugur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\baris.ugur\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\baris.ugur\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\baris.ugur\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

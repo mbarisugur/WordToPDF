@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\WordToPfd_Consumer\\WordToPdf_Consumer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\MicroserviceBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\MicroserviceBase.csproj",
+        "projectName": "MicroserviceBase",
+        "projectPath": "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\MicroserviceBase.csproj",
+        "packagesPath": "C:\\Users\\baris.ugur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baris.ugur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\SendEmail.csproj": {
+                "projectPath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\SendEmail.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[8.11.15, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\SendEmail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\SendEmail.csproj",
+        "projectName": "SendEmail",
+        "projectPath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\SendEmail.csproj",
+        "packagesPath": "C:\\Users\\baris.ugur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\SendEmail\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baris.ugur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\WordToPfd_Consumer\\WordToPdf_Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\WordToPfd_Consumer\\WordToPdf_Consumer.csproj",
+        "projectName": "WordToPdf_Consumer",
+        "projectPath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\WordToPfd_Consumer\\WordToPdf_Consumer.csproj",
+        "packagesPath": "C:\\Users\\baris.ugur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baris.ugur\\source\\repos\\WordToPdf\\WordToPfd_Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baris.ugur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\MicroserviceBase.csproj": {
+                "projectPath": "C:\\Users\\baris.ugur\\source\\repos\\MicroserviceBase\\MicroserviceBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
